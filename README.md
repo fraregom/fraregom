@@ -1,4 +1,4 @@
-![Banner](https://github.com/fraregom/fraregom/assets/8514474/3b8ab838-025c-4dea-a6bf-e8bc0ce845e6)
+![Banner](https://github.com/fraregom/fraregom/assets/8514474/32652350-1648-4c91-b79e-71ea2a413a18)
 
 <!--
 **fraregom/fraregom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
