@@ -1,4 +1,8 @@
-### Hi there 👋
+<p align="center">
+
+<img width="200" height="200" src=”https://user-images.githubusercontent.com/8514474/248870788-3f4c9708-ed45-45c0-bf4d-da8bfc9d8977.png" alt="my banner">
+
+</p>
 
 <!--
 **fraregom/fraregom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
