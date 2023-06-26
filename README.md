@@ -1,12 +1,8 @@
 ![Banner](https://github.com/fraregom/fraregom/assets/8514474/32652350-1648-4c91-b79e-71ea2a413a18)
 
-<h3 align="center">
-Hi there, I'm Francisco 👋
-</h3>
-
 <h2 align="center">
-I'm a Full Stack Developer 💻 and a technology enthusiast 🦾!
-</h2> 
+Hi there, I'm Francisco. Nice to meet you! 😃
+</h3>
 
 ## 🔭 I’m currently working on
 
