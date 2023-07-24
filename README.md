@@ -6,7 +6,7 @@ Hi there, I'm Francisco. Nice to meet you! 😃
 
 ## 🔭 I’m currently working on
 
-- Pokedex REST API using NestJS, Docker and GitHub Actions
+- 
 
 ## 🌱 I’m currently learning
 
