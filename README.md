@@ -6,12 +6,14 @@ Hi there, I'm Francisco. Nice to meet you! 😃
 
 ## 🔭 I’m currently working on
 
-- 
+- A PHP Web Application
+- A NestJS API REST 
 
 ## 🌱 I’m currently learning
 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## 🧑🏻‍💻 Technical Skills
 
